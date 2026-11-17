@@ -1,0 +1,6 @@
+{
+  "name": "TrazaAudit — Entrevista de Trazabilidad",
+  "description": "Formulario estructurado para entrevistas de levantamiento de sistemas de trazabilidad y mapeo de procesos empresariales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
